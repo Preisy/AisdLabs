@@ -1,0 +1,1 @@
+digraph myGraph{node[shape=circle,color=black,fontcolor=black,fontsize=10];1->2;1->4;2->3;3->4;}
